@@ -1,0 +1,9 @@
+Before taking snapshot please ensure your virtual machines are turned off!!
+
+> virsh
+> snapshot-create-as desktop myDesktop
+> snapshot-create-as server myServer
+
+
+
+Then make your reset script it works well
